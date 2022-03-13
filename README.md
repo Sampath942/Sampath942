@@ -49,6 +49,8 @@
       height="50" />  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="50" height="50" /> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" />
+    <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="mongodb" width="50" height="50" />
       </p>
 
 <br>
