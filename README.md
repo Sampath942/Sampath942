@@ -60,22 +60,22 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&layout=compact"
-    alt="adam-pw" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sampath942&show_icons=true&locale=en&layout=compact"
+    alt="Sampath942" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sampath942&show_icons=true&locale=en"
+    alt="Sampath942" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampath942&" alt="Sampath942" /></p>
 
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw" alt="adam-pw" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=Sampath942" alt="Sampath942" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
