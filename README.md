@@ -25,8 +25,8 @@
       src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.q9s2sSjwz87hMp3bE2WpmwHaHa%26pid%3DApi&f=1"
                                                                       alt="sampathangara" height="50" width="50" /></a>
   <a href="https://www.hackerrank.com/sampathangara123" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="sampathangara123" height="60" width="90" /></a>
+      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.v96Iu4uQcA-X8pvdzQhGcwHaHa%26pid%3DApi&f=1"
+      alt="sampathangara123" height="95" width="95" /></a>
 </p>
 
 <br>
