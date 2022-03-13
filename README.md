@@ -27,7 +27,9 @@
   <a href="https://www.hackerrank.com/sampathangara123" target="blank"><img align="center"
       src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.v96Iu4uQcA-X8pvdzQhGcwHaHa%26pid%3DApi&f=1"
       alt="sampathangara123" height="95" width="95" /></a>
-    <a href = "mailto: sampathangara123@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50" /></a>
+   <a href="https://www.codechef.com/users/sampathangara" target="blank">
+    <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8xLgkcRZmQkyLiA3GjCeNwAAAA%26pid%3DApi&f=1" alt="sampathangara" height="50" width="50" /></a>
+    <a href = "mailto: sampathangara123@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50" /></a>
 </p>
 
 <br>
