@@ -11,10 +11,11 @@
 
 <p><img align="right" src="https://github.com/Sampath942/Sampath942/blob/main/Sampath-gif.gif" alt="Sampath942" /></p>
 
+- I'm interested in web development, cybersecurity and machine learning fields.
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- I’m currently learning deep earning algorithms and other programming languages.
 
-- 📫 How to reach me **sampathangara123@gmail.com**
+- Reach me at **sampathangara123@gmail.com**
 
 <br>
 
