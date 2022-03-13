@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sampath Angara</h1>
+<h1 align="center">Hi, I'm Sampath Angara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Student at Gayatri Vidya Parishad College of Engineering, Visakhapatnam🌟.</h3>
 
 <br>
@@ -14,6 +14,8 @@
 - I'm interested in web development, cybersecurity and machine learning fields.
 
 - I’m currently learning deep learning algorithms and other programming languages.
+
+- I am a competitive programming enthusiast.
 
 - Reach me at **sampathangara123@gmail.com**
 
