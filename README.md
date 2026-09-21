@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sampath Angara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Student at Gayatri Vidya Parishad College of Engineering, Visakhapatnam🌟.</h3>
+<h3 align="center">Software Engineer from Visakhapatnam.</h3>
 
 <br>
 
@@ -9,13 +9,11 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Sampath942/Sampath942/blob/main/Sampath-gif.gif" alt="Sampath942" /></p>
+- I have 3+ years of experience working in areas mainly focused on backend development, database internals development and CI/CD development.
 
-- I'm interested in web development, cybersecurity and machine learning fields.
+- I’m very enthusiastic about web scraping and extracting some valuable insights from the data I scraped.
 
-- I’m currently learning deep learning algorithms and other programming languages.
-
-- I am a competitive programming enthusiast.
+- I'm interested in exploring new opportunities in backend development, web crawling and database development.
 
 <br>
 
