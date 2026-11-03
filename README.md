@@ -1,11 +1,12 @@
-<h1 align="center">Hi, I'm Sampath Angara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Sampath  <img src="assets/hi.gif" width="35"></h1>
 <h3 align="center">Software Engineer from Visakhapatnam.</h3>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://github-badge-pro.netlify.app/.netlify/functions/fetch-counts?username=Sampath942"
-    alt="Sampath942" /> 
-  </p>
+<p align="right">
+  <h3>Profile Views :-</h3>
+  <img src="https://github-badge-pro.netlify.app/.netlify/functions/fetch-counts?username=Sampath942" alt="Sampath942" />
+</p>
 
 <br>
 
@@ -17,31 +18,22 @@
 
 <br>
 
-<h3>Connect with me:</h3>
+### Connect with me:
 
 <div align="left">
-  <a href="https://linkedin.com/in/sampathangara" target="blank"><img align="center"
-      src="assets/linkedin-icon.jpg"                                                  alt="sampathangara" height="50" width="50" /></a>
-  
-<a href = "mailto: sampathangara123@gmail.com" target="blank"><img align="center" src="assets/gmail-icon.webp" height="60" width="50" /></a>
+  <a href="https://linkedin.com/in/sampathangara" target="_blank"><img src="assets/linkedin-icon.jpg" alt="sampathangara" height="50" width="50" /></a>
+  <a href="mailto:sampathangara123@gmail.com"><img src="assets/gmail-icon.webp" alt="Gmail" height="50" width="50" /></a>
 </div>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <img src="assets/python-icon.svg" alt="python"
-      width="50" height="50" />
-  <img src="assets/golang-icon.webp" alt="golang"
-      width="50" height="50" />
-  <img src="assets/C-lang-icon.webp" alt="c-language"
-      width="50" height="50" />
-  <img src="assets/postgresql-icon.jpg" alt="Postgresql"
-      width="50" height="50" />
-  <img src="assets/playwright-icon.png" alt="python"
-      width="60" height="60" />
-  <img src="assets/selenium-icon.webp" alt="python"
-      width="50" height="50" />
-  </p>
+### Languages and Tools:
 
-<br>
+<p align="left">
+  <img src="assets/python-icon.svg" alt="python" width="50" height="50" />
+  <img src="assets/golang-icon.webp" alt="golang" width="50" height="50" />
+  <img src="assets/C-lang-icon.webp" alt="c-language" width="50" height="50" />
+  <img src="assets/postgresql-icon.jpg" alt="Postgresql" width="50" height="50" />
+  <img src="assets/playwright-icon.png" alt="python" width="60" height="60" />
+  <img src="assets/selenium-icon.webp" alt="python" width="50" height="50" />
+</p>
