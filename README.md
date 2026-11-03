@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Sampath942&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://github-badge-pro.netlify.app/.netlify/functions/fetch-counts?username=Sampath942"
     alt="Sampath942" /> 
   </p>
 
@@ -23,9 +23,7 @@
   <a href="https://linkedin.com/in/sampathangara" target="blank"><img align="center"
       src="assets/linkedin-icon.jpg"                                                  alt="sampathangara" height="50" width="50" /></a>
   
-   <a href="https://www.codechef.com/users/sampathangara" target="blank">
-    <img align="center" src="assets/codechef-icon.jpg" alt="sampathangara" height="50" width="50" /></a>
-    <a href = "mailto: sampathangara123@gmail.com" target="blank"><img align="center" src="assets/gmail-icon.webp" height="60" width="50" /></a>
+<a href = "mailto: sampathangara123@gmail.com" target="blank"><img align="center" src="assets/gmail-icon.webp" height="60" width="50" /></a>
 </div>
 
 <br>
@@ -47,21 +45,3 @@
   </p>
 
 <br>
-
-<!-- <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sampath942&show_icons=true&locale=en&layout=compact"
-    alt="Sampath942" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sampath942&show_icons=true&locale=en"
-    alt="Sampath942" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sampath942&" alt="Sampath942" /></p>
-
-<br>
-
------------------------------------------------------------------------------------------------------------------------------------------- -->
